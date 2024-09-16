@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://lkves.github.io/sitemap/sitemap.txt
